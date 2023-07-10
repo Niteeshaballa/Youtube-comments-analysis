@@ -25,8 +25,8 @@ import regex as re
 # In[187]:
 
 
-# Arguments that need to passed to the build function
-DEVELOPER_KEY = 'AIzaSyAmtf6zE18M3igjOkcE9Jg4XE9ckDtu5go'
+# Arguments that need to be passed to the build function
+DEVELOPER_KEY = '#########'
 
 
 # In[3]:
